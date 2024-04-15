@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TeacherDiary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">სახელი</string>
+    <string name="time">დრო</string>
+    <string name="nextLesson">n.l.</string>
+    <string name="add">დამატება</string>
+    <string name="list_students">მოსწავლეების სია</string>
+    <string name="statistic">სტატისტიკა</string>
+    <string name="tel_numb">ტელეფონის ნომერი</string>
+    <string name="subject">საგანი</string>
+    <string name="lessons_week">გაკ.რაოდენობა კვირაში</string>
+    <string name="scool_clas">რომელი კლასში ხარ</string>
+    <string name="value_lessons">ღირებულება</string>
+    <string name="lessons_plan">მოძრავი გრაფიკი</string>
+    <string name="fix_week_days">ფიქსირებული კვირის დღეები</string>
+    <string name="todo">TODO</string>
+    <string name="student">მოსწავლე</string>
+    <string name="timelesson">დრო</string>
+    <string name="addStudent">დამატება</string>
+    <string name="numb">გაკ.რაოდ.</string>
+    <string name="klass">კლასი</string>
+    <string name="date">თარიღი</string>
+    <string name="_01_01_2024">01.01.2024</string>
+    <string name="save">save</string>
+    <string name="save_">შენახვა</string>
+    <string name="back">უკან</string>
+    <string name="times">დრო</string>
+    <string name="hour">სთ</string>
+</resources>
